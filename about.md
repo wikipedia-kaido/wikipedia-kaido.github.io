@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### ウィキペディア街道プロジェクトについて
 
-### More Information
+ウィキペディア街道は、旧街道沿いの名所旧跡などの歴史・文化情報をインターネット上の百科事典「ウィキペディア」に掲載して世界に発信するプロジェクトです。
+Code for Setagaya、オープン川崎、Code for Kanagawaの協力で運営しています。
 
-A place to include any other types of information that you'd like to include about yourself.
+### お問い合わせ
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[wikipedia-road@googlegroups.com](mailto:wikipedia-road@googlegroups.com)
