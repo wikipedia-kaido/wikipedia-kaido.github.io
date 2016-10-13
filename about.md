@@ -11,4 +11,4 @@ Code for Setagaya、オープン川崎、Code for Kanagawaの協力で運営し�
 
 ### お問い合わせ
 
-[wikipedia-road@googlegroups.com](mailto:wikipedia-road@googlegroups.com)
+ウィキペディア街道運営事務局：[wikipedia-road@googlegroups.com](mailto:wikipedia-road@googlegroups.com)
