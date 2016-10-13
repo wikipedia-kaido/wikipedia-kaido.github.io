@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: ウィキペディア街道「大山道」
 ---
 
 ### ウィキペディア街道「大山道」
