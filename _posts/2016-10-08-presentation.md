@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 活動紹介資料
+title: 紹介資料
 ---
 - 2017年3月5日 ウィキペディアタウンサミット 2017 京都
   - [ウィキペディアタウンサミット 2017 京都 ウィキペディア街道 by Hiroshi Omata](https://speakerdeck.com/homata/uikipedeiataunsamituto-2017-jing-du-uikipedeiajie-dao) 
