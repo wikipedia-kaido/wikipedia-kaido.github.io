@@ -2,6 +2,8 @@
 layout: post
 title: 紹介資料
 ---
+- 2017年12月23日 第14回ウィキペディア街道「大山道」 ウィキデータ勉強会
+  - [記事を書いたらウィキデータに入力しよう！](https://www.slideshare.net/tk01k/ss-84348559)
 - 2017年3月5日 ウィキペディアタウンサミット 2017 京都
   - [ウィキペディアタウンサミット 2017 京都 ウィキペディア街道 by Hiroshi Omata](https://speakerdeck.com/homata/uikipedeiataunsamituto-2017-jing-du-uikipedeiajie-dao) 
 - 2016年1月24日 ウィキペディア15周年イベント 東京
