@@ -2,6 +2,8 @@
 layout: post
 title: 紹介資料
 ---
+- 2017年12月23日 Civic Tech Advent Calendar 2017
+  - [ウィキデータ x シビックテックの可能性](https://qiita.com/nissy813/items/778bf416ce6769edda20)
 - 2017年12月23日 第14回ウィキペディア街道「大山道」 ウィキデータ勉強会
   - [記事を書いたらウィキデータに入力しよう！](https://www.slideshare.net/tk01k/ss-84348559)
 - 2017年3月5日 ウィキペディアタウンサミット 2017 京都
