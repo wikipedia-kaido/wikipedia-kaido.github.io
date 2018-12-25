@@ -2,6 +2,8 @@
 layout: post
 title: 紹介資料
 ---
+= 2018年12月24日 Wikimedia Advent Calendar 2018 | 24日目
+  - [ウィキペディア街道「大山道」ふりかえり](https://midoriit.com/2018/12/%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E8%A1%97%E9%81%93%E3%80%8C%E5%A4%A7%E5%B1%B1%E9%81%93%E3%80%8D%E3%81%B5%E3%82%8A%E3%81%8B%E3%81%88%E3%82%8A.html)
 - 2018年12月22日 Civic Tech Advent Calendar 2018
   - [ウィキペディアタウンの定量効果を分析してみた](https://qiita.com/nissy813/items/00e830f1e29b1028d875)
 - 2017年12月23日 Civic Tech Advent Calendar 2017
